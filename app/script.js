@@ -9,6 +9,7 @@ const Followers = document.querySelectorAll(".Followers");
 const content_top = document.querySelectorAll(".content_top");
 // console.log(light_mode);
 
+/*===================={Event listener function}=====================*/
 toggler.addEventListener("click", function () {
   // console.log(toggler.checked);
   if (toggler.checked) {
